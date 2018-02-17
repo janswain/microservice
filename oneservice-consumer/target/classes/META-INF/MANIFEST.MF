@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: oneservice-consumer
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: SG0215010
+Implementation-Vendor-Id: com.sabre.consumer
+Build-Jdk: 1.8.0_112
+Implementation-URL: http://projects.spring.io/spring-boot/oneservice-c
+ onsumer/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+

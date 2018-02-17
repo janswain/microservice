@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: oneservice-producer
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: SG0215010
+Implementation-Vendor-Id: com.sabre.mirco.service1
+Build-Jdk: 1.8.0_112
+Implementation-URL: http://projects.spring.io/spring-boot/oneservice-p
+ roducer/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
